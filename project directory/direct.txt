@@ -1,0 +1,7 @@
+binary-library/
+├── index.html    # Main HTML file
+├── css/          # Stylesheets
+├── js/           # JavaScript files
+├── assets/       # Images, icons, etc.
+├── php/          # Backend PHP scripts (for MySQL interactions)
+└── sql/          # SQL files for database setup
